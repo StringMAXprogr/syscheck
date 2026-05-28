@@ -1,5 +1,3 @@
-# README.md
-
 # Syscheck - Ubuntu System Checker
 
 ![Bash](https://img.shields.io/badge/bash-5.x-green)
@@ -88,15 +86,6 @@ syscheck --help
 
 ---
 
-## Manual Installation
-
-```bash
-chmod +x install.sh systemchecker.sh
-./install.sh
-```
-
----
-
 ## Uninstallation
 
 ```bash
@@ -105,14 +94,6 @@ chmod +x uninstall.sh
 ```
 
 ---
-
-## Usage
-
-Run directly:
-
-```bash
-./systemchecker.sh
-```
 
 Installed command:
 
