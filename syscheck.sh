@@ -1408,7 +1408,7 @@ show_banner() {
     echo -e "${RED}${BOLD}"
     echo "╔════════════════════════════════════════════════════════════════════════╗"
     echo "║                                                                        ║"
-    echo "║        🔥 UBUNTU SYSTEM CHECKER PRO v2.0 - HACKER EDITION 🔥         ║"
+    echo "║        🔥 UBUNTU SYSTEM CHECKER PRO v2.0 - HACKER EDITION 🔥           ║"
     echo "║                 Advanced Linux System Monitoring Tool                  ║"
     echo "║                                                                        ║"
     echo "╚════════════════════════════════════════════════════════════════════════╝"
