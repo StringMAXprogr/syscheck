@@ -8,6 +8,8 @@ A fast and detailed Ubuntu system diagnostics tool written in pure Bash.
 
 Syscheck analyzes performance, security, updates, hardware, processes, services and generates professional terminal reports directly from the command line.
 
+## Preview
+![preview](preview.png)
 
 ---
 
